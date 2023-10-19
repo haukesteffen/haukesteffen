@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hauke</h1>
 
-- 🔭 I’m currently working on [Automatic Bias Analysis in Multimedia Journalism](https://github.com/haukesteffen/ABAMJ)
-- 🌱 I’m currently learning **Data Science & ML, DevOps and best practices**
+- I’m currently working on [Automatic Blog Posts using the Hacker News and OpenAI API](https://github.com/haukesteffen/HNPulse)
+- I’m currently learning **LLMs, APIs and Software Development Best Practices**
 
 ```python
 #!/usr/bin/python
@@ -31,4 +31,9 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Oracle_Database-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Microsoft_Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
