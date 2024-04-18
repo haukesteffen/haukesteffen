@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hauke</h1>
 
-- I’m currently working on [Automatic Blog Posts using the Hacker News and OpenAI API](https://github.com/haukesteffen/HNPulse)
-- I’m currently learning **LLMs, APIs and Software Development Best Practices**
+- I’m currently working on [toy language models trained on a corpus of Hacker News comments](https://github.com/haukesteffen/LearningPyTorch)
+- I’m currently learning **PyTorch, NLP, LLMs and Software Development Best Practices**
 
 ```python
 #!/usr/bin/python
