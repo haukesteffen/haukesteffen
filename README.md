@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hauke</h1>
 
-- I’m currently working on [toy language models trained on a corpus of Hacker News comments](https://github.com/haukesteffen/LearningPyTorch)
-- I’m currently learning **PyTorch, NLP, LLMs and Software Development Best Practices**
+- I’m currently working on [visualizations of Hacker News comment data in form of Dashboards](https://github.com/haukesteffen/LearningDashboards) and [toy language models trained on a corpus of Hacker News comments](https://github.com/haukesteffen/LearningPyTorch)
+- I’m currently learning Dash, PyTorch, NLP, FastAPI, LLM basics, DBA basics and Software Development Best Practices
 
 ```python
 #!/usr/bin/python
@@ -36,4 +36,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Oracle_Database-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Microsoft_Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Dash-informational?style=flat&logo=plotly&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
