@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hauke</h1>
 
-- I’m currently working on [visualizations of Hacker News comment data in form of Dashboards](https://github.com/haukesteffen/LearningDashboards) and [toy language models trained on a corpus of Hacker News comments](https://github.com/haukesteffen/LearningPyTorch)
-- I’m currently learning Dash, PyTorch, NLP, FastAPI, LLM basics, DBA basics and Software Development Best Practices
+- I’m currently working on [predicting nationalities from names](https://github.com/haukesteffen/NatPredictor) using LSTMs in PyTorch.
+- I’m currently learning PyTorch, NLP, LLMs, MLOps and GCP basics.
 
 ```python
 #!/usr/bin/python
